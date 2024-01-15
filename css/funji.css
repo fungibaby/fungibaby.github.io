@@ -1,0 +1,43 @@
+.navbar-brand img {
+  width: 300px;
+}
+
+.intro {
+  background-color: #a29173;
+  padding: 255px 0;
+}
+.intro p {
+  color: #ffffff;
+}
+.intro .tittle {
+  font-size: 40px;
+  font-weight: 700;
+}
+.intro .text {
+  font-size: 15px;
+  line-height: 38px;
+  letter-spacing: 2px;
+}
+.text-tittle {
+  background-color: #ffffff;
+  width: 209px;
+  height: 59px;
+  border-radius: 100px;
+  text-align: center;
+}
+.text-tittle p {
+  background-color: bisque;
+  color: #333;
+}
+.more a p {
+  color: black;
+}
+.more a {
+  text-decoration: none;
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1720px;
+  }
+}
